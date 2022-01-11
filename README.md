@@ -1,4 +1,3 @@
-# CPE 315 
 ## ARM Thumb Simulator
 
 In this project you will build an ARM Thumb simulator to examine performance 
